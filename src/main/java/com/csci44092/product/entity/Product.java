@@ -1,4 +1,4 @@
-package com.example.productservice.entity;
+package com.csci44092.product.entity;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
